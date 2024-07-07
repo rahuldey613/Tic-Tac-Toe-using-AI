@@ -6,7 +6,7 @@ import { Component } from '@angular/core';
     <div style="text-align:center;">
       <h1 style="margin-bottom:auto;">Tic-Tac-Toe</h1>
       <a
-        href="https://github.com/changhuixu/tic-tac-toe"
+        href="https://github.com/rahuldey613/Tic-Tac-Toe-using-AI/tree/main"
         target="_blank"
         rel="noopener"
       >
